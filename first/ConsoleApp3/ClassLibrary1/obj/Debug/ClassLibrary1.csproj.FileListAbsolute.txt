@@ -1,0 +1,10 @@
+C:\Users\79889\source\repos\ConsoleApp3\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\79889\source\repos\ConsoleApp3\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\79889\source\repos\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\79889\source\repos\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\79889\source\repos\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\79889\source\repos\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+\\Mac\Home\Documents\GitHub\first\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+\\Mac\Home\Documents\GitHub\first\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\first\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+\\Mac\Home\Documents\GitHub\first\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
