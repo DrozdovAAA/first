@@ -1,0 +1,28 @@
+c:\users\79889\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+c:\users\79889\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+c:\users\79889\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+c:\users\79889\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+c:\users\79889\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+c:\users\79889\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+c:\users\79889\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\79889\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ClassLibrary1.dll
+C:\Users\79889\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ClassLibrary1.pdb
+C:\Users\79889\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CopyComplete
+C:\Users\79889\Desktop\C# 6 семестр\first\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\79889\Desktop\C# 6 семестр\first\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\79889\Desktop\C# 6 семестр\first\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\79889\Desktop\C# 6 семестр\first\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\79889\Desktop\C# 6 семестр\first\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\79889\Desktop\C# 6 семестр\first\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\79889\Desktop\C# 6 семестр\first\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\79889\Desktop\C# 6 семестр\first\ConsoleApp3\ConsoleApp3\bin\Debug\ClassLibrary1.dll
+C:\Users\79889\Desktop\C# 6 семестр\first\ConsoleApp3\ConsoleApp3\bin\Debug\ClassLibrary1.pdb
+C:\Users\79889\Desktop\C# 6 семестр\first\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CopyComplete
+C:\Users\Student\Documents\c#\C-\first\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\c#\C-\first\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Student\Documents\c#\C-\first\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\Student\Documents\c#\C-\first\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Student\Documents\c#\C-\first\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Student\Documents\c#\C-\first\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Student\Documents\c#\C-\first\ConsoleApp3\ConsoleApp3\bin\Debug\ClassLibrary1.dll
+C:\Users\Student\Documents\c#\C-\first\ConsoleApp3\ConsoleApp3\bin\Debug\ClassLibrary1.pdb
