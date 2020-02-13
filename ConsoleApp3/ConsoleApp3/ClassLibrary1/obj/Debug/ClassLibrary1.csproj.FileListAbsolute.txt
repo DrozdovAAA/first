@@ -1,0 +1,17 @@
+C:\Users\79889\source\repos\ConsoleApp3\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\79889\source\repos\ConsoleApp3\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\79889\source\repos\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\79889\source\repos\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\79889\source\repos\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\79889\source\repos\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\79889\Desktop\C# 6 семестр\first\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\79889\Desktop\C# 6 семестр\first\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\79889\Desktop\C# 6 семестр\first\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\79889\Desktop\C# 6 семестр\first\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\79889\Desktop\C# 6 семестр\first\ConsoleApp3\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\79889\Desktop\C# 6 семестр\first\ConsoleApp3\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Student\Documents\c#\C-\first\ConsoleApp3\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Student\Documents\c#\C-\first\ConsoleApp3\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Student\Documents\c#\C-\first\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\c#\C-\first\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Student\Documents\c#\C-\first\ConsoleApp3\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
